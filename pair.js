@@ -81,8 +81,8 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `*𝐍𝐈𝐏𝐔-𝐁𝐎𝐓 [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*wa.me/message/WKGLBR2PCETWD1*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/GAOhr0qNK7KEvJwbenGivZ*`;
-            const mg = `🛑 *Do not share this code to anyone* 🛑`;
+            const sid = `*𝐍𝐈𝐏𝐔-𝐁𝐎𝐓 [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*wa.me/message/WKGLBR2PCETWD1*\n\n*You can join my whatsapp group*\n\n*https://chat.whatsapp.com/GAOhr0qNK7KEvJwbenGivZ*/n> ᴾᵒʷᵉʳᵉᵈ ᴮʸ 𝚴-𝚩𝚯𝚻 ₜₑₐₘ 👨‍💻‼️`;
+            const mg = `🛑 *Do not share this code to anyone* 🛑/n> ᴾᵒʷᵉʳᵉᵈ ᴮʸ 𝚴-𝚩𝚯𝚻 ₜₑₐₘ 👨‍💻‼️`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
                 url: "https://raw.githubusercontent.com/NIPU-BOT-V4/-/refs/heads/main/20250307_183439.png",
